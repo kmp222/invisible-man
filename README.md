@@ -1,7 +1,7 @@
 # Invisible Man (2022)
 
 ## Overview
-The Invisible Man (2022) is a project that leverages machine learning models and image processing techniques to recognize and remove human skin from videos. The application extends its capabilities to real-time scenarios, including webcam feeds. 
+This project leverages machine learning models and image processing techniques to recognize and remove human skin from videos. The application extends its capabilities to real-time scenarios, including webcam feeds. 
 
 - `video_file.m`: This script is used to apply the skin removal process to a video file.
 - `video_stream.m`: This script captures webcam feeds and applies the skin removal process in real-time.
