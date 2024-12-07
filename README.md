@@ -1,5 +1,3 @@
-
-
 (2022) ML models and image processing techniques to recognize and remove human skin from videos; the application extends to real-time scenarios, including webcam feeds. 
 
 - `video_file.m`: applies the skin removal process to a video file
@@ -12,7 +10,7 @@ MATLAB add-ons used:
 - Image processing
 
 
-## Contributors
+## contributors
 - Samuele Campanella
 - Elia Gaviraghi
 - Pietro Bressan
